@@ -14,9 +14,6 @@ To perform  matrix summation with a 2D grid and 2D blocks and adapting it to int
 Hardware – PCs with NVIDIA GPU & CUDA NVCC
 Google Colab with NVCC Compiler
 
-
-
-
 ## PROCEDURE:
 
 1.	Initialize the data: Generate random data for two input arrays using the initialData function.
